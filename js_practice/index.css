@@ -1,0 +1,25 @@
+h1 {
+    color: black;
+    text-decoration: lightskyblue;
+    text-shadow: 3px 3px grey;
+    text-align: center;
+}
+
+body {
+    border: 3mm double black;
+    font-size: 150%;
+    background-image: url(https://images.all-free-download.com/images/graphicthumb/rippled_wall_background_01_hd_pictures_169887.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+ol {
+    border: 2mm double black;
+    margin: auto;
+    margin-left: 6mm;
+    margin-right: 80mm;
+}
+
+.text_justified {
+    text-align: justify;
+}
