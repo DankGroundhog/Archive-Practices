@@ -97,4 +97,11 @@ if "__main__" == __name__:
 
 """
 Made by: Felix M. Perez Quinones
+
+This is part of my work in the UPRM MoonBuggy - Telemetry dpt. 
+as of Nov 11. 2020. More will be uploaded in the future.
+
+
+RadioData is a class separate from this script, which is not included 
+for privacy. 
 """
